@@ -1,0 +1,23 @@
+.results {
+  background: white;
+}
+.result {
+  display: inline-block;
+  background: white;
+  padding: 10px;
+  width: 220px;
+  /* height: 460px; */
+  vertical-align: top;
+}
+.result-fact {
+  padding-bottom: 10px;
+}
+.result-name {
+  font-size: 1.2em;
+}
+.result-location {
+  font-style: italic;
+}
+.result-description {
+  text-align: left;
+}

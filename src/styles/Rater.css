@@ -1,0 +1,41 @@
+.rater {
+  padding: 10px;
+  background: white;
+}
+.rater-question {
+  padding: 10px;
+}
+.rater-buttons button {
+  font-size: 2em;
+  border: none;
+  background: none;
+  padding: 10px;
+  margin: 5px;
+}
+.rater-buttons button.selected {
+  background: #c5e4b8;
+}
+.thumbs-up,
+.thumbs-down {
+  width: 50px;
+  height: auto;
+  margin: 0;
+  padding: 0;
+}
+.thumbs-up {
+  margin-bottom: 5px;
+  padding-top: 5px;
+}
+.thumbs-down {
+  margin-top: 5px;
+  padding-bottom: 5px;
+}
+.navigation-button {
+  font-size: 1em;
+  background: #c5e4b8;
+  color: #53a63a;
+  padding: 5px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+}
